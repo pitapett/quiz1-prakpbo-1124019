@@ -92,6 +92,7 @@ public class app {
             default:
                 break;
         }
+        start();
     }
 
     public static void main(String[] args) {

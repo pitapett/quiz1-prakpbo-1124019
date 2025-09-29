@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public enum Shape {
+enum Shape {
     SPHERE,
     CYLINDER,
     CUBOID,
